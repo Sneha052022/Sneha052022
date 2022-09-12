@@ -10,7 +10,7 @@ I have been learning coding since March 2022. Masai has given me the training ov
 <img src="./thoughtworks-gif_dribbble-readme-photo.gif" height=290px align="right" />
 
 * 🌍  I'm based in Delhi
-* 💬  My portfolio is [https://sneha052022-portfolio.netlify.app/]
+* 💬  My portfolio is [https://snehasingh-portfolio.netlify.app/]
 * ✉️  You can contact me at [sneha052020@gmail.com](mailto:sneha052020@gmail.com)
 * 🧠  I'm learning `MERN Stack`.
 * 🤔  I’m looking for help with `Competitive Programming`
