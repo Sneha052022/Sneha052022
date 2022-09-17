@@ -1,10 +1,8 @@
-Hi 👋 I am Sneha 
-===============================
+<h1 align="center">Hi 👋, I'm Sneha</h1>
+<h3 align="center">I am Aspiring MERN Stack Developer</h3>
+<h3 align="center">I'm a React Developer with proficiency in Data Structures Algorithms Express and MogoDB who enjoys making web application and learning new technology.</h3>
+<p align="center" ><img width="80%" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" /></p>
 
-MERN Stack Web Developer
-------------------------
-
-I have been learning coding since March 2022. Masai has given me the training over MERN Stack web development where I learned HTML, CSS, JavaScript, Node.js, Express, React, Redux and also got the working of Github. I am curious to learn new technologies which can develop the world to be sustainable one for the future.
 
 
 <img src="./thoughtworks-gif_dribbble-readme-photo.gif" height=290px align="right" />
