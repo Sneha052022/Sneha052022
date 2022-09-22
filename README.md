@@ -71,7 +71,7 @@
 <!-- ### 🏆 GitHub Profile Trophy:
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Aadi0706&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=sneha052022&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
 ![](https://github.com/sneha052022/prajaktahadole/blob/main/imgs/bottom_header.svg) -->
