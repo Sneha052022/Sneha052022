@@ -64,7 +64,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneha052022&stroke=ffffff&background=365314&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
  </div>
 
-<a href="http://www.github.com/Aadi0706"><img src="https://activity-graph.herokuapp.com/graph?username=Sneha052022&bg_color=365314&color=ffffff&line=ef4444&point=ffffff&area_color=365314&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/sneha052022"><img src="https://activity-graph.herokuapp.com/graph?username=Sneha052022&bg_color=365314&color=ffffff&line=ef4444&point=ffffff&area_color=365314&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <!-- <a href="https://github.com/Aadi0706" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha052022&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=365314&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
@@ -74,4 +74,4 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Aadi0706&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
-![](https://github.com/Aadi0706/prajaktahadole/blob/main/imgs/bottom_header.svg) -->
+![](https://github.com/sneha052022/prajaktahadole/blob/main/imgs/bottom_header.svg) -->
