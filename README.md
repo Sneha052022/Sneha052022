@@ -9,6 +9,7 @@
 
 * 🌍  I'm based in Delhi
 * 💬  My portfolio is [https://snehasingh-portfolio.netlify.app/]
+* 💬  My resume is [https://drive.google.com/file/d/1Z10jU8JX9OEPos5jveulySZJWTfmcd-w/view?usp=sharing]
 * ✉️  You can contact me at [sneha052020@gmail.com](mailto:sneha052020@gmail.com)
 * 🧠  I'm learning `MERN Stack`.
 * 🤔  I’m looking for help with `Competitive Programming`
